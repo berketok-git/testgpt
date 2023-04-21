@@ -1,207 +1,27 @@
-Name: Adam Brown
-Job Title: Software Engineer
-Skills: Java, Python, SQL, React
-Busy Status: Available
-Location: San Francisco, CA
-Experience Level: 5 years
-Degree: Bachelor's in Computer Science
-
-Name: Amanda Rodriguez
-Job Title: Marketing Manager
-Skills: Marketing strategy, SEO, PPC advertising, content creation
-Busy Status: Busy
-Location: Miami, FL
-Experience Level: 8 years
-Degree: Bachelor's in Marketing
-
-Name: Brian Williams
-Job Title: Sales Representative
-Skills: Sales strategy, customer service, relationship building
-Busy Status: Available
-Location: New York, NY
-Experience Level: 3 years
-Degree: Bachelor's in Business Administration
-
-Name: Caitlin Chang
-Job Title: Graphic Designer
-Skills: Adobe Photoshop, Adobe Illustrator, typography, web design
-Busy Status: Busy
-Location: Los Angeles, CA
-Experience Level: 6 years
-Degree: Bachelor's in Graphic Design
-
-Name: Daniel Kim
-Job Title: Data Analyst
-Skills: SQL, Python, data visualization, statistical analysis
-Busy Status: Available
-Location: Chicago, IL
-Experience Level: 4 years
-Degree: Master's in Data Analytics
-
-Name: Emily Davis
-Job Title: Human Resources Manager
-Skills: Recruiting, employee relations, benefits administration, HRIS
-Busy Status: Busy
-Location: Austin, TX
-Experience Level: 7 years
-Degree: Bachelor's in Human Resources
-
-Name: Frank Lee
-Job Title: Financial Analyst
-Skills: Financial modeling, data analysis, Excel, budgeting
-Busy Status: Available
-Location: Boston, MA
-Experience Level: 2 years
-Degree: Bachelor's in Finance
-
-Name: Gina Patel
-Job Title: Social Media Manager
-Skills: Social media strategy, content creation, analytics, influencer marketing
-Busy Status: Busy
-Location: San Diego, CA
-Experience Level: 5 years
-Degree: Bachelor's in Marketing
-
-Name: Henry Nguyen
-Job Title: Product Manager
-Skills: Agile development, product strategy, UX design, data analysis
-Busy Status: Available
-Location: Seattle, WA
-Experience Level: 4 years
-Degree: Master's in Product Management
-
-Name: Isabel Rivera
-Job Title: Content Writer
-Skills: Copywriting, editing, SEO, content strategy
-Busy Status: Busy
-Location: Philadelphia, PA
-Experience Level: 3 years
-Degree: Bachelor's in English
-
-Name: Jake Chen
-Job Title: IT Support Specialist
-Skills: Networking, hardware troubleshooting, software installation, customer service
-Busy Status: Available
-Location: Houston, TX
-Experience Level: 2 years
-Degree: Associate's in Information Technology
-
-Name: Kelly Johnson
-Job Title: Project Manager
-Skills: Project planning, team management, budgeting, risk management
-Busy Status: Busy
-Location: Denver, CO
-Experience Level: 6 years
-Degree: Bachelor's in Business Administration
-
-Name: John Smith
-Job: Software Developer
-Skills: Java, Python, SQL
-Busy status: Busy
-Location: San Francisco, CA
-Experience level: 5 years
-Degree: Computer Science
-
-Name: Emily Johnson
-Job: Marketing Manager
-Skills: Marketing Strategy, Social Media, SEO
-Busy status: Busy
-Location: New York, NY
-Experience level: 7 years
-Degree: Marketing
-
-Name: William Lee
-Job: Data Analyst
-Skills: Excel, SQL, Tableau
-Busy status: Available
-Location: Austin, TX
-Experience level: 3 years
-Degree: Statistics
-
-Name: Jennifer Davis
-Job: Graphic Designer
-Skills: Adobe Creative Suite, Illustration, Typography
-Busy status: Busy
-Location: Los Angeles, CA
-Experience level: 6 years
-Degree: Graphic Design
-
-Name: Michael Brown
-Job: Sales Manager
-Skills: Sales Strategy, Relationship Building, Negotiation
-Busy status: Available
-Location: Miami, FL
-Experience level: 8 years
-Degree: Business Administration
-
-Name: Jessica Martin
-Job: Human Resources Manager
-Skills: Employee Relations, Recruiting, Benefits Administration
-Busy status: Busy
-Location: Chicago, IL
-Experience level: 9 years
-Degree: Human Resources
-
-Name: David Wilson
-Job: Project Manager
-Skills: Agile Methodology, Budgeting, Risk Management
-Busy status: Available
-Location: Seattle, WA
-Experience level: 4 years
-Degree: Project Management
-
-Name: Sarah Thompson
-Job: Content Writer
-Skills: Copywriting, Editing, SEO
-Busy status: Busy
-Location: Denver, CO
-Experience level: 2 years
-Degree: English
-
-Name: Brian Kim
-Job: Financial Analyst
-Skills: Financial Modeling, Forecasting, Valuation
-Busy status: Available
-Location: San Diego, CA
-Experience level: 6 years
-Degree: Finance
-
-Name: Rachel Garcia
-Job: Event Planner
-Skills: Event Coordination, Vendor Management, Budgeting
-Busy status: Busy
-Location: Houston, TX
-Experience level: 4 years
-Degree: Event Planning
-
-Name: Kevin Patel
-Job: Software Engineer
-Skills: C++, Python, Machine Learning
-Busy status: Available
-Location: New York, NY
-Experience level: 3 years
-Degree: Computer Science
-
-Name: Karen Nguyen
-Job: Marketing Coordinator
-Skills: Social Media Marketing, Email Marketing, Google Analytics
-Busy status: Busy
-Location: San Francisco, CA
-Experience level: 2 years
-Degree: Marketing
-
-Name: Andrew Smith
-Job: Product Manager
-Skills: Product Strategy, User Research, Agile Methodology
-Busy status: Available
-Location: Chicago, IL
-Experience level: 5 years
-Degree: Business Administration
-
-Name: Olivia Davis
-Job: UX Designer
-Skills: User Research, Wireframing, Prototyping
-Busy status: Busy
-Location: Boston, MA
-Experience level: 4 years
-Degree: Interaction Design
+Name: Alex Smith, Job: Software Developer, Skills: Java, Python, C++, HTML, CSS
+Name: Emily Jones, Job: Graphic Designer, Skills: Adobe Photoshop, Illustrator, InDesign, Sketch, Figma
+Name: John Lee, Job: Sales Representative, Skills: Communication, Sales, Marketing, Negotiation, Customer Service
+Name: Samantha Davis, Job: Human Resources Manager, Skills: Recruitment, Training, Employee Relations, HRIS, Compliance
+Name: Michael Brown, Job: Financial Analyst, Skills: Excel, Data Analysis, Financial Modeling, Accounting, Forecasting
+Name: Sarah Nguyen, Job: Web Developer, Skills: JavaScript, React, Node.js, MongoDB, Git
+Name: Kevin Chen, Job: Marketing Manager, Skills: Market Research, Branding, Advertising, Social Media, Analytics
+Name: Rachel Kim, Job: Content Writer, Skills: SEO, Copywriting, Editing, Research, Blogging
+Name: David Wilson, Job: Project Manager, Skills: Leadership, Planning, Budgeting, Risk Management, Agile
+Name: Olivia Martinez, Job: Public Relations Specialist, Skills: Media Relations, Crisis Management, Event Planning, Writing, Networking
+Name: Daniel Rodriguez, Job: Data Scientist, Skills: Machine Learning, Statistics, Python, R, SQL
+Name: Victoria Wu, Job: UX Designer, Skills: User Research, Wireframing, Prototyping, Interaction Design, Usability Testing
+Name: Christopher Green, Job: Mechanical Engineer, Skills: AutoCAD, SolidWorks, Materials Science, Manufacturing Processes, Finite Element Analysis
+Name: Amanda Johnson, Job: Social Worker, Skills: Counseling, Case Management, Advocacy, Crisis Intervention, Assessment
+Name: Benjamin Kim, Job: Business Analyst, Skills: Requirements Gathering, Data Visualization, Process Improvement, Project Management, Stakeholder Management
+Name: Taylor Lee, Job: Product Manager, Skills: Market Analysis, Product Strategy, Roadmapping, Agile, Product Development
+Name: Isabella Garcia, Job: Event Planner, Skills: Budgeting, Venue Selection, Contract Negotiation, Vendor Management, Event Design
+Name: Matthew Perez, Job: Software Engineer, Skills: JavaScript, React, Redux, Node.js, Express
+Name: Sophia Anderson, Job: Nurse Practitioner, Skills: Patient Assessment, Diagnosis, Treatment Planning, Prescription Writing, Patient Education
+Name: Jason Wilson, Job: Financial Advisor, Skills: Investment Planning, Retirement Planning, Tax Planning, Insurance Planning, Wealth Management
+Name: Lauren Davis, Job: Copy Editor, Skills: Grammar, Spelling, Style Guides, Copyediting Tools, Writing
+Name: Ethan Chen, Job: Cybersecurity Analyst, Skills: Network Security, Penetration Testing, Vulnerability Management, Incident Response, Risk Assessment
+Name: Mia Rodriguez, Job: Interior Designer, Skills: Space Planning, Color Theory, Sketching, CAD, Project Management
+Name: Andrew Brown, Job: Data Analyst, Skills: SQL, Excel, Data Visualization, Statistics, Data Cleaning
+Name: Julia Lee, Job: Web Designer, Skills: HTML, CSS, JavaScript, User Interface Design, Responsive Design
+Name: William Davis, Job: Human Resources Generalist, Skills: Onboarding, Benefits Administration, HR Policies, Compliance, Employee Relations
+Name: Chloe Nguyen, Job: Social Media Manager, Skills: Content Creation, Community Management, Analytics, Advertising, Influencer Marketing
